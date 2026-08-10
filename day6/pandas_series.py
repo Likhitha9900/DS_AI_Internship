@@ -1,4 +1,9 @@
 import pandas as pd
-x=[1,2,3,4]
-y=pd.Series(x)
-print(y.to_string())
+
+scores=pd.Series([45,67,89,34,90])
+passed =scores[scores>60]
+print(passed)
+
+data=pd.Series([10,None,30,None])
+print(data.isnull())
+print(data.fillna(0))
