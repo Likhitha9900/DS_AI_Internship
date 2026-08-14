@@ -1,0 +1,51 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+1,0,3,Braund Owen,male,22,1,0,7.25,S
+2,1,1,Cumings Mrs John,female,38,1,0,71.28,C
+3,1,3,Heikkinen Laina,female,26,0,0,7.93,S
+4,1,1,Futrelle Mrs Jacques,female,35,1,0,53.10,S
+5,0,3,Allen William,male,35,0,0,8.05,S
+6,0,3,Moran James,male,28,0,0,8.46,Q
+7,0,1,McCarthy Timothy,male,54,0,0,51.86,S
+8,0,3,Palsson Gosta,male,2,3,1,21.08,S
+9,1,3,Johnson Mrs Oscar,female,27,0,2,11.13,S
+10,1,2,Nasser Mrs Nicholas,female,14,1,0,30.07,C
+11,1,3,Sandstrom Marguerite,female,4,1,1,16.70,S
+12,1,1,Bonnell Elizabeth,female,58,0,0,26.55,S
+13,0,3,Saul Nicholas,male,20,0,0,8.05,S
+14,0,3,Andersson Ingeborg,female,39,1,5,31.28,S
+15,0,3,Vestrom Hulda,female,14,0,0,7.85,S
+16,1,2,Hewlett Mrs George,female,55,0,0,16.00,S
+17,0,3,Rice Eugene,male,2,4,1,29.13,Q
+18,1,2,Williams Charles,male,30,0,0,13.00,S
+19,0,3,Vander Julius,female,31,1,0,18.00,S
+20,1,3,Masselmani Hussein,female,22,0,0,7.23,C
+21,0,2,Fynney Joseph,male,35,0,0,26.00,S
+22,1,2,Beesley Lawrence,male,34,0,0,13.00,S
+23,1,3,McGough James,male,15,0,0,8.03,Q
+24,1,1,Chaffee Herbert,female,28,1,0,35.50,S
+25,0,3,Peters Katie,female,8,3,1,21.08,S
+26,1,3,Asplund Carl,female,38,1,5,31.39,S
+27,0,3,Emir Anthony,male,18,0,0,7.23,C
+28,0,1,Fortune Charles,male,19,3,2,263.00,S
+29,1,3,ODwyer Ellen,female,28,0,0,7.88,Q
+30,0,3,Todoroff Lalio,male,28,0,0,7.90,S
+31,0,1,Uruchurtu Manuel,male,40,0,0,27.72,C
+32,1,1,Graham Margaret,female,29,1,0,146.52,C
+33,1,3,Harrison Henry,female,18,0,0,7.75,Q
+34,0,2,Williams Charles,male,66,0,0,10.50,S
+35,0,1,Lurette Joseph,male,28,1,0,82.17,C
+36,0,1,Harper John,male,45,1,0,52.55,S
+37,1,3,Wells Arthur,female,22,0,0,7.23,C
+38,0,3,Holverson Alexander,male,21,0,0,8.05,S
+39,0,3,Vander Julius,female,18,2,0,18.00,S
+40,1,2,West Edvard,female,14,1,0,26.00,S
+41,0,3,Hawksford Walter,male,40,0,0,7.90,S
+42,0,1,Giglio Victor,male,28,0,0,13.00,S
+43,0,3,Rydberg Alfred,male,20,0,0,7.85,S
+44,1,2,Isham Ann,female,24,1,0,26.00,S
+45,1,3,Devaney Margaret,female,19,0,0,7.88,Q
+46,0,3,Rogers John,male,29,0,0,8.05,S
+47,0,3,Andersson Ebba,female,21,0,0,9.83,S
+48,1,3,Goodwin Lillian,female,16,1,0,7.65,S
+49,0,3,Sage Constance,female,30,2,0,20.53,S
+50,1,1,Ward Anna,female,35,0,0,227.53,C
